@@ -1,0 +1,125 @@
+footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+
+#img1 {
+  width: 100px;
+}
+
+@media screen and (max-width: 992px) {
+  .progress {
+    width: 100%;
+  }
+}
+
+.website {
+  background-color: darkgray;
+}
+
+.website2 {
+  height: 950px;
+  background-color: darkgray;
+}
+
+#nh2 {
+  font-family: "lobster", cursive;
+}
+
+div tbody {
+  text-align: right;
+}
+
+div .progress {
+  height: 20px;
+  margin-right: 400px;
+}
+
+div h2 {
+  padding-top: 20px;
+  text-align: center;
+  font-family: "lobster", cursive;
+}
+
+div #img7, div #img8 {
+  margin-bottom: 50px;
+  height: 361px;
+  width: 672px;
+}
+
+div #side1, div #side2 {
+  margin-top: 100px;
+}
+
+div #img7 {
+  /* margin-left:-100px;*/
+}
+
+div #portfolio1 {
+  margin-right: -100px;
+}
+
+div #nh2 {
+  text-align: left;
+  /*margin-left:-50px;*/
+  padding-bottom: 20px;
+  font-family: "lobster", cursive;
+}
+
+div #bfooter {
+  padding-bottom: 20px;
+}
+
+div #img2 {
+  height: 320px;
+  width: 250px;
+  border-radius: 8px;
+}
+
+div .icon {
+  height: 320px;
+  width: 270px;
+  border-radius: 8px;
+}
+
+div button {
+  border: none;
+  height: 50px;
+  width: 150px;
+  color: white;
+}
+
+div .bottom {
+  color: black;
+  padding-top: 20px;
+}
+
+div .col-sm-4 {
+  padding-top: 100px;
+}
+
+div #hp {
+  padding-bottom: 300px;
+  font-size: 50px;
+  color: white;
+  font-family: "lobster", cursive;
+}
+
+div #img3 {
+  height: 700px;
+}
+
+div #div1 {
+  padding-top: 50px;
+}
+
+div #img5 {
+  height: 500px;
+  width: 370px;
+  margin-top: 50px;
+  border-radius: 8px;
+}
+/*# sourceMappingURL=style1.css.map */

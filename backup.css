@@ -1,0 +1,155 @@
+
+
+ #img1{
+    width:100px;
+    
+}
+#img3{
+    height:700px;
+   mix-blend-mode:multiply;
+    
+}
+#div1{
+    padding-top: 50px;
+}
+
+#img2{
+  height:320px;
+  width: 250px;
+
+border-radius:8px;
+  
+  
+}
+
+footer{
+  background-color:#343a40;
+  color:white;
+  text-align:center;
+  padding-top: 40px;
+  padding-bottom: 25px
+}
+
+
+
+.col-sm{
+    padding-top:100px;
+}
+
+button{
+    border:none;
+    height:50px;
+    width: 150px;
+    color:white;
+}
+
+
+#bfooter{
+    
+    padding-bottom:20px;
+}
+
+#hp{
+    padding-bottom:300px;
+    color:white;
+    font-family: 'Lobster', cursive;
+    font-size:50px;
+
+}
+#img5{
+    height:500px;
+    width: 370px;
+    margin-top:50px;
+    border-radius:8px;
+}
+#carouselExampleSlidesOnly{
+    background-color:#0892D0;
+
+}
+
+.icon{
+    height:320px;
+  width: 270px;
+  border-radius:8px;
+
+
+}
+.bottom{
+    color:black;
+    padding-top:20px;
+}
+
+h2{
+    padding-top:20px;
+    text-align:center;
+    font-family: 'Lobster', cursive;
+}
+
+@media screen and (max-width: 992px) {
+    .progress{
+      width: 100%;
+    }
+  }
+ div tbody{
+    text-align:right;
+}
+div .progress{
+    height:20px;
+    margin-right:400px;
+}
+
+.website{
+   
+    background-color:darkgrey;
+  
+}
+
+
+.website2{
+    height:650px;
+    background-color:darkgrey;
+  
+}
+
+
+
+div #img7{
+   
+    margin-bottom: 50px;
+    height:361px;
+    width:672px;
+    margin-left:-100px;
+   
+}
+
+
+div #img8{
+    margin-bottom: 50px;
+    height:361px;
+    width:672px;
+   
+}
+
+
+
+
+div #portfolio1{
+    margin-right:-100px;
+}
+
+
+
+div #side1{
+    margin-top:100px; 
+    
+}
+
+div #side2{
+    margin-top:100px;
+}
+div #nh2{
+    text-align:left;
+    margin-left:-50px;
+    padding-bottom:20px;
+    font-family: 'Lobster', cursive;
+}

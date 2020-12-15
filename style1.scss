@@ -1,0 +1,176 @@
+
+$major-background: #343a40;
+$major-color: white;
+$font:'lobster', cursive;
+$other-background:  darkgray;
+
+  footer{
+    background-color:$major-background;
+    color:$major-color;
+    text-align:center;
+    padding-top: 40px;
+    padding-bottom: 25px;
+  }
+
+  #img1{
+    width:100px;
+    
+}
+
+
+@media screen and (max-width: 992px) {
+    .progress{
+      width: 100%;
+    }
+  }
+
+
+
+.website{
+   
+    background-color:$other-background;
+  
+}
+.website2{
+
+    height:950px;
+    background-color:$other-background;
+}
+
+#nh2{
+    
+    font-family: $font;
+}
+
+div {
+    tbody{
+    text-align:right;
+}
+ .progress{
+    height:20px;
+    margin-right:400px;
+}
+
+h2{
+    padding-top:20px;
+    text-align:center;
+    font-family: $font;
+}
+}
+
+
+%message-shared{
+    margin-bottom: 50px;
+    height:361px;
+    width:672px;
+}
+
+%margin-shared{
+    margin-top:100px;
+}
+
+div{
+
+ #img7{
+   
+   @extend %message-shared;
+   /* margin-left:-100px;*/
+   
+}
+
+
+#img8{
+    @extend %message-shared;   
+}
+
+
+ #portfolio1{
+    margin-right:-100px;
+}
+
+
+
+#side1{
+   @extend %margin-shared;
+    
+}
+
+#side2{
+    @extend %margin-shared;
+}
+#nh2{
+    text-align:left;
+    /*margin-left:-50px;*/
+    padding-bottom:20px;
+    font-family: $font
+}
+
+}
+
+div{
+ #bfooter{
+    
+    padding-bottom:20px;
+}
+ #img2{
+  height:320px;
+  width: 250px;
+  border-radius:8px;
+  
+  
+}
+ .icon{
+    height:320px;
+  width: 270px;
+  border-radius:8px;
+
+
+}
+ button{
+    border:none;
+    height:50px;
+    width: 150px;
+    color:$major-color;
+    
+}
+ .bottom{
+    color:black;
+    padding-top:20px;
+ }
+    .col-sm-4{
+        padding-top:100px;
+    }
+    
+}
+
+
+div{
+
+   
+
+ #hp{
+    padding-bottom:300px;
+    font-size:50px;
+    color:$major-color;
+    font-family: $font;
+    
+
+}
+ #img3{
+    height:700px;
+  
+    
+}
+}
+
+div{
+    #div1{
+        padding-top: 50px;
+    }
+    #img5{
+        height:500px;
+        width: 370px;
+        margin-top:50px;
+        border-radius:8px;
+    }
+}
